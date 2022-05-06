@@ -10,9 +10,9 @@ Create a basic task manager using React:
 
 ## Screenshots:
 
-!['homepage'](11.png)
+!['homepage'](11.PNG)
 _Homepage_
-!['completed'](12.png)
+!['completed'](12.PNG)
 _Clicking 2nd Button to display only finished tasks_
-!['unfinised'](13.png)
+!['unfinised'](13.PNG)
 _Clicking 3rd Button to display only unfinished tasks_
