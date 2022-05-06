@@ -11,10 +11,10 @@ Create a basic login page using React:
 ## Screenshots:
 
 ![ui](21.PNG "user interface")  
-_Homepage_
+_Homepage_  
 ![input_errors](22.PNG "input error")  
-_Missing Input alert_
+_Missing Input alert_  
 ![passwords_errors](23.PNG "passwords error")  
-_Password not matched alert_
-![success](24.PNG "success")
+_Password not matched alert_  
+![success](24.PNG "success")  
 _Login successful_
